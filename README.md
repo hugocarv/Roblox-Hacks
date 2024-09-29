@@ -18,3 +18,4 @@
 - Customizable: Wave allows you to save and manage your favorite scripts, making it easy to switch between different setups.
 
 
+![image](https://github.com/user-attachments/assets/f3826611-24ec-47e5-84b8-673fc900bba9)
